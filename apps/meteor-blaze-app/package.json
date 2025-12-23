@@ -48,8 +48,8 @@
     "retainLines": true
   },
   "dependencies": {
-    "@babel/runtime": "^7.16.3",
-    "@babel/runtime-corejs2": "^7.7.6",
+    "@babel/runtime": "^7.26.10",
+    "@babel/runtime-corejs2": "^7.26.10",
     "@reactioncommerce/file-collections": "../../packages/file-collections",
     "@reactioncommerce/file-collections-sa-base": "../../packages/file-collections-sa-base",
     "@reactioncommerce/file-collections-sa-gridfs": "../../packages/file-collections-sa-gridfs",
@@ -64,7 +64,7 @@
     "query-string": "^5.1.0",
     "sharp": "^0.30.7",
     "tus-js-client": "^1.5.1",
-    "tus-node-server": "~0.3.2"
+    "tus-node-server": "~0.9.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.5",
