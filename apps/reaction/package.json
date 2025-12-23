@@ -76,9 +76,9 @@
     "@reactioncommerce/logger": "1.1.5",
     "@reactioncommerce/random": "1.0.2",
     "@snyk/protect": "latest",
-    "nodemailer": "^6.8.0",
+    "nodemailer": "^6.9.9",
     "graphql": "~16.6.0",
-    "semver": "~6.3.0",
+    "semver": "~6.3.1",
     "sharp": "^0.30.7"
   },
   "devDependencies": {
@@ -111,7 +111,7 @@
     "version": "echo $npm_package_version",
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable",
-    "prepare": "npm run snyk-protect",
+    "prepare": "pnpm run snyk-protect && npm run snyk-protect",
     "snyk-protect": "snyk-protect"
   },
   "prettier": {
