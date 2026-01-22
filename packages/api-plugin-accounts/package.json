@@ -34,7 +34,7 @@
     "envalid": "^6.0.1",
     "graphql": "^15.2.0",
     "graphql-fields": "^2.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "ramda": "^0.28.0",
     "simpl-schema": "^1.8.0"
   },
