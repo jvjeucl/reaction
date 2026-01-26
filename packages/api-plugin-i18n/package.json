@@ -27,7 +27,7 @@
   "sideEffects": false,
   "dependencies": {
     "@reactioncommerce/api-utils": "^2.0.0",
-    "lodash": "~4.17.15"
+    "lodash": "~4.17.23"
   },
   "devDependencies": {
     "@reactioncommerce/babel-remove-es-create-require": "~1.0.0",
