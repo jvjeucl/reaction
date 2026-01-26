@@ -32,7 +32,7 @@
     "@reactioncommerce/file-collections": "^0.10.0",
     "@reactioncommerce/random": "~1.0.2",
     "@reactioncommerce/reaction-error": "~1.0.1",
-    "lodash": "~4.17.21",
+    "lodash": "~4.17.23",
     "simpl-schema": "~1.10.2"
   },
   "devDependencies": {
