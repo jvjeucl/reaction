@@ -32,7 +32,7 @@
     "@reactioncommerce/reaction-error": "^1.0.1",
     "accounting-js": "^1.1.1",
     "json-rules-engine": "^6.1.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "dotenv": "^16.0.1",
     "envalid": "^7.3.1",
     "simpl-schema": "^1.12.2"
